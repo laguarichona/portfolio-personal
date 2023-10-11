@@ -356,7 +356,7 @@ header .img-header{
     grid-column: span 12;
     height: 80vh;
     background-color: wheat;
-
+    color:gray;
 }
 
 
